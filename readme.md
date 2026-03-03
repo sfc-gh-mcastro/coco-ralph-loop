@@ -37,16 +37,16 @@ graph LR
     A3 -- "Stop event in<br/>hooks.json" --> B3
     A4 -- "reused as-is<br/>(.claude → .cortex)" --> B4
 
-    style CC fill:#f9f0ff,stroke:#7c3aed,stroke-width:2px
-    style CoCo fill:#f0f9ff,stroke:#2563eb,stroke-width:2px
-    style A1 fill:#fef3c7,stroke:#d97706
-    style A2 fill:#fef3c7,stroke:#d97706
-    style A3 fill:#fef3c7,stroke:#d97706
-    style A4 fill:#fef3c7,stroke:#d97706
-    style B1 fill:#dbeafe,stroke:#2563eb
-    style B2 fill:#dbeafe,stroke:#2563eb
-    style B3 fill:#dbeafe,stroke:#2563eb
-    style B4 fill:#dbeafe,stroke:#2563eb
+    style CC fill:#7c3aed,stroke:#a78bfa,stroke-width:2px,color:#fff
+    style CoCo fill:#2563eb,stroke:#60a5fa,stroke-width:2px,color:#fff
+    style A1 fill:#d97706,stroke:#fbbf24,color:#fff
+    style A2 fill:#d97706,stroke:#fbbf24,color:#fff
+    style A3 fill:#d97706,stroke:#fbbf24,color:#fff
+    style A4 fill:#d97706,stroke:#fbbf24,color:#fff
+    style B1 fill:#1d4ed8,stroke:#60a5fa,color:#fff
+    style B2 fill:#1d4ed8,stroke:#60a5fa,color:#fff
+    style B3 fill:#1d4ed8,stroke:#60a5fa,color:#fff
+    style B4 fill:#1d4ed8,stroke:#60a5fa,color:#fff
 ```
 
 | Claude Code | Cortex Code | What changed |
