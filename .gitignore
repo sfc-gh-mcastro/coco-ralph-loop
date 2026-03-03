@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+.cortex/ralph-loop.local.md
+__pycache__/
+*.pyc

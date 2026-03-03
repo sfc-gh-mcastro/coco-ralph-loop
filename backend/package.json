@@ -1,0 +1,20 @@
+{
+  "name": "coco-ralph-loop",
+  "version": "1.0.0",
+  "description": "REST API for todos",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "jest --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.2.2"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
