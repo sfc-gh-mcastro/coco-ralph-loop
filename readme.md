@@ -2,9 +2,23 @@
 
 This repo contains the information needed to add "Ralph-in-the-loop" in Snowflake Cortex Code (CoCo).
 
-The first section decribe how to add it to CoCo.
+The first section decribes how to add it to CoCo (Snowflake Cortex Code).
 
 The second section shows the result of using "Ralph-in-the-loop" in CoCo in order to create a simple REST API for todos with Streamlit front-end.
+
+## Background Context
+
+**Ralph-in-the-loop**  is a term coined by [Geoffrey Huntley](https://ghuntley.com/) which describes it as a **“Ralph is a Bash loop” - a development methodology based on continuous AI agents loops** .
+
+Ralph in this case is named after [Ralph Wiggum from The Simpsons](https://en.wikipedia.org/wiki/Ralph_Wiggum), which represents the philosophy of **persistent interactions despite setbacks**.
+
+Check also my blog [here](https://marcelcastrobr.github.io/posts/2026-01-03-UsingLoopsinClaudeCode.html#ralph-wiggum-plugin) that describes more about the solution and how to use it in claude code.
+
+
+
+![Ralph Wiggum by Gemini](./assets/image-20260527075818173.png)
+
+
 
 # How to add Ralph-in-the-loop in Cortex Code
 
